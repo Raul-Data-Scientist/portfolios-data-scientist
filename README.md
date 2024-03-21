@@ -1,6 +1,6 @@
 # Portfólio de Data Scientist
 
-![Data Scientist](link_para_imagem)
+![Data Scientist](https://www.sankhya.com.br/wp-content/uploads/2021/05/inteligencia-artificial.png)
 
 **Nome:** Raul Rodrigues  
 **Email:** rfbr21@gmail.com
