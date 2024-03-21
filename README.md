@@ -1,6 +1,6 @@
 # Portfólio de Data Scientist
 
-(<img src="https://www.sankhya.com.br/wp-content/uploads/2021/05/inteligencia-artificial.png" alt="Inteligência Artificial" width="300">)
+<img src="https://www.sankhya.com.br/wp-content/uploads/2021/05/inteligencia-artificial.png" alt="Inteligência Artificial" width="300">
 
 
 **Nome:** Raul Rodrigues  
